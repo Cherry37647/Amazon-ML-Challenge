@@ -1,0 +1,17 @@
+# Large datasets
+data/*.tsv
+train/*.tsv
+
+# Generated work files
+work/
+
+# Generated outputs
+output/*.tsv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
